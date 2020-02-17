@@ -1,4 +1,9 @@
-﻿using System;
+﻿/**
+ * @author  : Jagepard <jagepard@yandex.ru>
+ * @license https://mit-license.org/ MIT
+ */
+
+using System;
 using System.Collections.Generic;
 
 namespace CsDesignPatterns_Command

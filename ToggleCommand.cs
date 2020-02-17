@@ -1,4 +1,9 @@
-﻿namespace CsDesignPatterns_Command
+﻿/**
+ * @author  : Jagepard <jagepard@yandex.ru>
+ * @license https://mit-license.org/ MIT
+ */
+
+namespace CsDesignPatterns_Command
 {
     internal class ToggleCommand : ICommand
     {
